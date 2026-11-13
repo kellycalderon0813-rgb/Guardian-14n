@@ -1,0 +1,28 @@
+[
+  {
+    "id": "p-1794498567219-6tub",
+    "name": "Kelly Calderon",
+    "cedula": "1116259871",
+    "area": "people",
+    "score": 4710,
+    "stars": 3,
+    "glucoseLevel": 75,
+    "triviaCorrect": 5,
+    "triviaTotal": 5,
+    "timeSeconds": 64,
+    "createdAt": "2026-11-12T15:49:27.219Z"
+  },
+  {
+    "id": "p-1794500110521-evpx",
+    "name": "Andres Felipe Castro",
+    "cedula": "1085341209",
+    "area": "Operaciones",
+    "score": 3850,
+    "stars": 3,
+    "glucoseLevel": 82,
+    "triviaCorrect": 5,
+    "triviaTotal": 5,
+    "timeSeconds": 58,
+    "createdAt": "2026-11-12T16:15:10.521Z"
+  }
+]

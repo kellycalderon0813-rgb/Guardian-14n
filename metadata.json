@@ -1,0 +1,6 @@
+{
+  "name": "Guardián de la Glucosa 14N - Día Mundial de la Diabetes",
+  "description": "Juego interactivo de prevención para el Día Mundial de la Diabetes con dinámicas educativas, registro de participantes, enlace compartible por WhatsApp y panel organizador para ver ganadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
